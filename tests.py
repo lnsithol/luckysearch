@@ -2,7 +2,7 @@ import json
 import os
 import shutil
 import unittest
-import microsearch
+import luckysearch
 
 
 class UnhashedMicrosearch(microsearch.Microsearch):
