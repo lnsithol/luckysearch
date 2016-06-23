@@ -1,14 +1,14 @@
 from distutils.core import setup
 
 setup(
-    name = "microsearch",
+    name = "luckysearch",
     version = "1.0.0",
     description = "A small search library.",
     author = 'Lucky Sithole',
     author_email = 'luckysithole92@gmail.com.com',
     long_description=open('README.rst', 'r').read(),
     py_modules = [
-        'microsearch'
+        'luckysearch'
     ],
     classifiers = [
         'Development Status :: 5 - Production/Stable',
@@ -18,5 +18,5 @@ setup(
         'Programming Language :: Python',
         'Topic :: Internet :: WWW/HTTP :: Indexing/Search'
     ],
-    url = 'http://github.com/toastdriven/microsearch'
+    url = 'https://github.com/lnsithol/luckysearch'
 )
